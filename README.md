@@ -6,3 +6,4 @@ Starting list from my powerpoint
 - [ ] Regression model for lexical change
 - [ ] Regression model for predicting year
 - [ ] Poster stuff
+- [X] Two-sample t-tests/ANOVA on year to year differences in average funding amounts (inflation adjusted)
